@@ -19,6 +19,9 @@
         <p class="lead">
             <asp:Label ID="Label_AuthorizationToken" runat="server" Text=""></asp:Label>
         </p>
+        <p>
+            <asp:Label ID="Label1" runat="server" Text="TEST COMMIT"></asp:Label>
+        </p>
     </div>
 
     </asp:Content>
